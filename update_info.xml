@@ -1,1 +1,7 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>1.0.0.0</version>
+    <url>PON AQUÍ EL ENLACE DE TU ZIP/INSTALADOR</url>
+    <changelog>https://github.com/Thoraal/form-practica/releases/tag/v1.0.0.0</changelog>
+    <mandatory>false</mandatory>
+</item>
